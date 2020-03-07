@@ -1,5 +1,5 @@
 ---
-path: blog
+path: blog/first
 date: 2020-03-06T18:42:19.655Z
 title: releasing unfinished work
 description: 'This is my first post, and believe me: it''s hard writing in public.'
