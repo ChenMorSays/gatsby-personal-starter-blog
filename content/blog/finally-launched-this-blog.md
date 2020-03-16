@@ -1,5 +1,5 @@
 ---
-path: sample
+path: /blog/sample
 date: 2020-03-16T21:38:58.747Z
 title: Finally. Launched this blog.
 description: Transferred my blog from Wordpress to Gatsby and couldn't be happier.
